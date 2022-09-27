@@ -29,3 +29,7 @@ I created a repository and pushes code to this repository
 
 For this, I invited my teammates. 
 ![Schermafbeelding 2022-09-27 om 10 38 32](https://user-images.githubusercontent.com/107840904/192486103-eff0c175-ff4c-413f-b1dc-44067381b107.png)
+
+I also cloned a repository from a peer.
+![Schermafbeelding 2022-09-27 om 10 45 00](https://user-images.githubusercontent.com/107840904/192486826-579a9bee-47c4-4848-86c0-2445fb384fae.png)
+
