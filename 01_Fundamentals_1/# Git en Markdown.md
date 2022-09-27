@@ -23,3 +23,5 @@ https://en.wikipedia.org/wiki/WYSIWYM
 
 ### Results
 I created a Markdown document and added it to my repository.
+
+![Schermafbeelding 2022-09-27 om 11 42 29](https://user-images.githubusercontent.com/107840904/192492815-dbfef501-ba3b-443c-bf18-3faa93b5e095.png)
