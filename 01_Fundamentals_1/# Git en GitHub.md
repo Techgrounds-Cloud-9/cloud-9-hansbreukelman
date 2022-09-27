@@ -24,7 +24,7 @@ Lost time by spending a little too long on the first assignment, which was not r
 I created a Github account.
 ![Schermafbeelding 2022-09-27 om 10 35 32](https://user-images.githubusercontent.com/107840904/192485965-04edc7a9-b01b-43e6-9add-8b18f5935c95.png)
 
-I created a repository.
+I created a repository and pushes code to this repository
 ![Schermafbeelding 2022-09-27 om 10 39 50](https://user-images.githubusercontent.com/107840904/192486034-62388f7a-5e95-4890-830d-1efd2f94eda1.png)
 
 For this, I invited my teammates. 
