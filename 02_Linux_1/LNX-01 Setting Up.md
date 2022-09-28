@@ -11,7 +11,7 @@ A virtual machine is a computer program that mimics a computer on which other pr
 ### Linux
 Open-source operating system.
 
-### Open-source besturingssysteem
+### Open-source operating system
 Free computer program whose source code (source) is publicly available.
 
 ### Ubuntu
