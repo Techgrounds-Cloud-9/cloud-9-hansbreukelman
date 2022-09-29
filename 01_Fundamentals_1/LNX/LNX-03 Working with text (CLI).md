@@ -1,15 +1,41 @@
-# [Subject]
-[Give a short summary of the subject matter.]
+# LNX-03 Working with text (CLI)
+Creating text files in Linux and the possibilities that come with them.
+#
 
 ## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excercises.]
+### Echo command
+Echo is a Unix/Linux command used to display lines of text or a string.
+
+### String
+A string is any sequence of 4 or more printable characters that end with a new-line or a null character.
+
+### Mkdir command
+Command that allows users to create or make new directories.
+#
 
 ## Exercise
+- Write a new sentence in a text file with the word 'Techgrounds'.
+- Find a command that writes the text file with only the sentence containing the word 'Techgrounds'
+- Use the same command again, but additionally should direct its output to another text file.
+#
+
 ### Sources
-[List the sources you used for solving the exercise]
+https://www.youtube.com/watch?v=SgGFZvlqcwk
+#
 
 ### Overcome challenges
-[Give a short description of the challeges you encountered, and how you solved them.]
+I could get the answers and solutions fortunately all from the same source.
+#
 
 ### Results
-[Describe the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
+Used the echo command to put new text in the text file.
+
+![echo](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/79af207f77ed4ccd230f808061980b6d3e5b1c20/00_includes/Week%201/LNX/LNX-03_1%20echo%20command%20.png)
+
+I used the grep command to filter.
+
+![filter](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/79af207f77ed4ccd230f808061980b6d3e5b1c20/00_includes/Week%201/LNX/LNX-03_2%20filter.png)
+
+The same command with the output leading to another text file.
+
+![redirect](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/79af207f77ed4ccd230f808061980b6d3e5b1c20/00_includes/Week%201/LNX/LNX-03_3%20redirect.png)
