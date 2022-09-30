@@ -3,7 +3,7 @@ Working with Bash scripts in combination with Cron jobs.
 
 ## Key terminology
 ### Cronjob
-Een Cronjob of crontab is een Unix commando dat een programma of script op een ingesteld tijdstip uitvoert.
+A Cronjob or crontab is a Unix command that runs a program or script at a set time.
 
 ### Bash script
 Bash script is a plain text file which contains a series of commands.
