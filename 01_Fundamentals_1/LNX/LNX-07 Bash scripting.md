@@ -53,7 +53,31 @@ https://www.tutorialspoint.com/unix/if-else-statement.htm
 
 
 ### Overcome challenges
-[Give a short description of the challeges you encountered, and how you solved them.]
+This was a big assignment with many exercises. In some exercises, there were sometimes multiple options. I did enjoy the assignment, which did make me work on it longer than necessary. This was because I was trying out a lot of things.  
 
 ### Results
-[Describe the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
+Making a new directory and put in path
+
+![dir](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/a295c25c72b466d9028873a042e88dd8e30c38e7/00_includes/Week%201/LNX/LNX-07-Ex1_1%20Scripts.png)
+
+Created a script that appends a line of text to a text file whenever it is executed
+
+![er](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/a295c25c72b466d9028873a042e88dd8e30c38e7/00_includes/Week%201/LNX/LNX-07-Ex1_2%20Path.png)
+
+Created a script that installs the httpd package, activates httpd, and enables httpd. Finally, the script print the status of httpd in the terminal.
+
+![tr](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/a295c25c72b466d9028873a042e88dd8e30c38e7/00_includes/Week%201/LNX/LNX-07-Ex1_3%20Httpd.png)
+
+![tr](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/a295c25c72b466d9028873a042e88dd8e30c38e7/00_includes/Week%201/LNX/LNX-07-Ex1_4%20Status.png)
+
+Created a script that generates a random number between 1 and 10, stores it in a variable, and then appends the number to a text file.
+
+![yu](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/a295c25c72b466d9028873a042e88dd8e30c38e7/00_includes/Week%201/LNX/LNX-07-Ex2_1%20Script.png)
+
+![bn](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/a295c25c72b466d9028873a042e88dd8e30c38e7/00_includes/Week%201/LNX/LNX-07-Ex2_2%20Result.png)
+
+Created a script that generates a random number between 1 and 10, stores it in a variable, and then appends the number to a text file only if the number is bigger than 5. If the number is 5 or smaller, it append a line of text to that same text file instead.
+
+![ty](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/a295c25c72b466d9028873a042e88dd8e30c38e7/00_includes/Week%201/LNX/LNX-07-Ex3_1%20Script.png)
+
+![kl](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/a295c25c72b466d9028873a042e88dd8e30c38e7/00_includes/Week%201/LNX/LNX-07-Ex3_2%20Result.jpeg)
