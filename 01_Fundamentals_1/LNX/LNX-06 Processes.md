@@ -19,11 +19,27 @@ A PID is an abbreviation for Process Identification Number.
 #
 
 ## Exercise
-### Sources
 - Download and start Telnet Daemon
 - Show the PID 
 - Show how much memory Telnet uses
 - Stop Telnet
+#
+
+### Sources
+https://www.cyberciti.biz/faq/unix-restart-inetd-service-daemon/
+
+https://tldp.org/LDP/solrhe/Securing-Optimizing-Linux-RH-Edition-v1.3/chap3sec21.html
+
+https://www.dispersednet.com/linux-network-admin/module4/inetd-daemon-vitalComponent-unixSystem.php
+
+https://www.digitalworldz.co.uk/threads/telnet-command-to-check-memory-usage.284579/
+
+https://www.2daygeek.com/linux-commands-check-memory-usage/
+
+https://www.javatpoint.com/linux-telnet-command
+
+https://www.cyberciti.biz/faq/kill-process-in-linux-or-terminate-a-process-in-unix-or-linux-systems/
+#
 
 ### Overcome challenges
 I still spent quite a long time trying to start Telnet, finding the right command was quite difficult. I found out after much searching that it was more with the name INETD and that allowed me to search more specifically.
