@@ -39,4 +39,5 @@ https://docs.oracle.com/cd/E19683-01/806-4075/ipov-10/index.html
 
 ### Results
 Identify other protocols and their connection to OSI layers. 
-![op]()
+
+![op](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/3a90497d22a999aee40f9bcbc0a22e1a19b1c30e/00_includes/Week%202/NTW-02%20Prot.png)
