@@ -14,18 +14,29 @@ Fundamentally UDP is a fire and forget protocol. You send a data packet to a tar
 ### ‘Three-way handshake’
 A three-way handshake establishes a reliable connection between client and server, and is vital for online communication.
 
-![twh]()
+![twh](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/da4b2c0fe0aa7415d99c43e2b36f5f16b190317e/00_includes/Week%202/NTW-03%20TWH.png)
 
 ### HTTPS
+Https in full stands for Hyper Text Transfer Protocol Secure and, like http, is a way to send data over the Internet. But then in a secure way.
 
 ### Wireshark
+Wireshark is a network protocol analyzer, or an application that captures packets from a network connection, such as from your computer to your home office or the internet.
 
 ## Exercise
 ### Sources
-[List the sources you used for solving the exercise]
+https://nl.wikipedia.org/wiki/User_Datagram_Protocol
+
+https://www.redhat.com/architect/http3
+
+https://www.geeksforgeeks.org/tcp-3-way-handshake-process/
+
+https://www.youtube.com/watch?v=-rSqbgI7oZM&t=570s
+
+https://docs.oracle.com/cd/E19683-01/806-4075/ipov-10/index.html
 
 ### Overcome challenges
 [Give a short description of the challeges you encountered, and how you solved them.]
 
 ### Results
-[Describe the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
+Identify other protocols and their connection to OSI layers. 
+![op]()
