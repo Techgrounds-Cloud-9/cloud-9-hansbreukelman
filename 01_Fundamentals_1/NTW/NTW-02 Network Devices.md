@@ -53,5 +53,9 @@ First, I figured out what the IP address is by going to the command prompt, ente
 
 The ip address of the router, I copy and paste into an Internet browser. This leads me to the routers management page. Here, under the connected devices tab, I can see which devices are connected to the router
 
-![ret]()
+![ret](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/e7848e7673253fb910491ffab6b7d7d5db62bd7e/00_includes/Week%202/NTW-02%20Con%20dev.png)
+
+To see where the DHCP server is on my network and what its configurations are, I enter "configip/all in the command prompt.
+
+![gt](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/e7848e7673253fb910491ffab6b7d7d5db62bd7e/00_includes/Week%202/NTW-02%20DHCP.png)
 
