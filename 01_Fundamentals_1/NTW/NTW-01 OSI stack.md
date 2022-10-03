@@ -1,5 +1,6 @@
 # NTW-01 OSI stack
 All about the OSI model and the TCP/IP model and the difference between the two.
+#
 
 ## Key terminology
 ### OSI
@@ -12,13 +13,26 @@ Transmission Control Protocol/Internet Protocol
 TCP/IP allows devices connected to the Internet to communicate with each other over networks. This through 5 layers that are very similar to the OSI model.
 
 Again, finding problems in communication between computers can be solved by following the 5 layers of this model.
+#
 
 ## Exercise
+Delve into everything related to the ISO model and the TCP/IP model.
+#
+
 ### Sources
-[List the sources you used for solving the exercise]
+### Get to know OSI and TCP/IP
+https://www.youtube.com/watch?v=CRdL1PcherM
+
+### Everything about OSI
+https://www.imperva.com/learn/application-security/osi-model/
+
+### Everything about TCP/IP
+https://www.avg.com/nl/signal/what-is-tcp-ip
+#
 
 ### Overcome challenges
-[Give a short description of the challeges you encountered, and how you solved them.]
+I started by watching and youtube video explaining everything in a fine way to understand. From here I was able to search more specifically for more information.
+#
 
 ### Results
 ### OSI - TCP/IP
