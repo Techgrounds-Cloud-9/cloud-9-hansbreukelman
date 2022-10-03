@@ -31,4 +31,8 @@ Andere belangrijke verschillen:
 TCP/IP is een functioneel model dat is ontworpen om specifieke communicatieproblemen op te lossen, en dat is gebaseerd op specifieke, standaardprotocollen. OSI is een algemeen, protocolonafhankelijk model, bedoeld om alle vormen van netwerkcommunicatie te beschrijven.
 In TCP/IP gebruiken de meeste toepassingen alle lagen, terwijl in OSI eenvoudige toepassingen niet alle zeven lagen gebruiken. Alleen de lagen 1, 2 en 3 zijn verplicht om gegevenscommunicatie mogelijk te maken.
 
+![rt](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/11ee07927e24f9261c383bcf0774972c0c79d5e9/00_includes/Week%202/NTW-01%20OSI%20vs.%20TCP:IP.png)
+
+![qw](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/11ee07927e24f9261c383bcf0774972c0c79d5e9/00_includes/Week%202/NTW-01%20OSI.png)
+
 
