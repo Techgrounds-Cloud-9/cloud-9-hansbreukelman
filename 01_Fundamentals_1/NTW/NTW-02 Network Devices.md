@@ -42,8 +42,16 @@ https://www.youtube.com/watch?v=9eH16Fxeb9o&list=RDCMUC9x0AN7BWHpCDHSm9NiJFJQ&in
 https://en.wikiversity.org/wiki/Network%2B/Standards/OSI_Model/OSI_Components
 
 ### Overcome challenges
-[Give a short description of the challeges you encountered, and how you solved them.]
+Since I didn't have access to a router myself, I asked Jeena to help me in another breakout room. With the information/solutions I had gathered myself, we went through all the steps with her screen.
 
 ### Results
-[Describe the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
+The OSI model in relation to these network devices
+
+![new](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/19a751ba531b0ed56e62f64454694661e2c0cf67/00_includes/Week%202/NTW-02%20OSI%20model%20dev.png)
+
+First, I figured out what the IP address is by going to the command prompt, entering "ipconfig" here. The numbers indicated on the Default Gateway section is your router's IP Address.
+
+The ip address of the router, I copy and paste into an Internet browser. This leads me to the routers management page. Here, under the connected devices tab, I can see which devices are connected to the router
+
+![ret]()
 
