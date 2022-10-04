@@ -29,6 +29,10 @@ A dynamic IP address is an IP address that an internet provider lets you use tem
 #
 
 ## Exercise
+- Discovering the IP addresses of my Macbook and Iphone, both public and private. 
+- Figuring out what the differences of these are.
+- And figuring out what happens if you change this manually.
+#
 
 ### Sources
 https://watismijnip.nl/
@@ -41,17 +45,17 @@ https://nl.wikipedia.org/wiki/Internet_Protocol_versie_4
 #
 
 ### Overcome challenges
-[Give a short description of the challeges you encountered, and how you solved them.]
+What I thought I knew a lot about, it turned out I still had a lot to learn.
 
 ## Results
 ### Public IP addresses phone and laptop
 Macbook
 
-![IP]()
+![IP](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/f68c86936d72a453640980fd9f0a44e80fa9fae7/00_includes/Week%202/NTW-05%20Public%20IP%20Mac.png)
 
 Iphone
 
-![IP]()
+![IP](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/f68c86936d72a453640980fd9f0a44e80fa9fae7/00_includes/Week%202/NTW-05%20Public%20IP%20Phone.jpeg)
 
 The IP addresses are the same.
 Think of your public IP as your home address. A public IP address visible on the internet is analogous to a street name and a building number that determine where you reside. A public IP address is how your router communicates with the World Wide Web. 
@@ -60,18 +64,20 @@ So that IP address is the same for every device.
 ### Private IP addresses phone and laptop
 Macbook
 
-![IP]()
+![IP](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/f68c86936d72a453640980fd9f0a44e80fa9fae7/00_includes/Week%202/NTW-05%20IP%20macbook.png)
 
 Iphone
 
-![IP]()
+![IP](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/f68c86936d72a453640980fd9f0a44e80fa9fae7/00_includes/Week%202/NTW-05%20Iphone.jpeg)
 
 The IP addresses are very similar but not the same.
 Every device connected to a network has a unique IP address through which the device can be recognized. This IP address depends on the modem being connected to. 
 
 ### Changing the private IP address of your mobile to that of your laptop
-My phone keeps connecting to the router only it switches to mobile network instead of wifi. So it has no connection with the internet.
+My phone keeps connecting to the router only it switches to mobile network instead of wifi. So it doesn't have internet through the router.
+
+![ip](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/f68c86936d72a453640980fd9f0a44e80fa9fae7/00_includes/Week%202/NTW-05%20IP%20mac-phone.jpeg)
 
 ### Change the private IP address of your mobile to an address outside your network
-I get the same as the previous question. keeps connecting to the router only it switches to mobile network instead of wifi. So it has no connection with the internet.
+I get the same as the previous question. keeps connecting to the router only it switches to mobile network instead of wifi. So it doesn't have internet through the router.
 
