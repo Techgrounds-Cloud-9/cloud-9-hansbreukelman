@@ -7,16 +7,16 @@ Studying and counting in Binary, Hexadecimal and Decimal.
 The decimal numeral system or ten-number system is a numeral system for representing numbers using the ten digits 0 through 9.
 
 ### Binary
-Het binaire talstelsel of tweetallig talstelsel is een positiestelsel, waarin een getal wordt voorgesteld door een rijtje van de cijfers 0 en 1.
+The binary or bilinear number system is a positional system, in which a number is represented by a sequence of the digits 0 and 1.
 
 ### Hexadecimal
-Het hexadecimale talstelsel is een talstelsel met het grondtal 16. Het is een positiestelsel waarin niet, zoals gebruikelijk in het tientallige stelsel, met tien cijfers wordt gewerkt, maar met zestien cijfers. Hexadecimaal betekent letterlijk zestientallig.
+The hexadecimal number system is a number system with the base number 16. It is a positional system in which ten digits are not used, as is common in the decimal system, but sixteen digits. Hexadecimal literally means hexadecimal.
 
 ### Bits
-De bit is de kleinste eenheid van informatie, namelijk een symbool of signaal dat twee waarden kan aannemen: aan of uit, ja of nee, hoog of laag, geladen of niet-geladen. Het binaire talstelsel stelt deze waarden voor met 1 en 0.
+The bit is the smallest unit of information, namely a symbol or signal that can take two values: on or off, yes or no, high or low, charged or uncharged. The binary number system represents these values by 1 and 0.
 
 ### Byte
-Een byte (symbool: B) is een binaire eenheid van informatie, voor te stellen als een woord van een aaneengesloten rij van bits. De de facto standaard is dat een byte uit 8 bits bestaat.
+A byte (symbol: B) is a binary unit of information, represented as a word of a contiguous sequence of bits. The de facto standard is that a byte consists of 8 bits.
 
 ## Exercise
 Solving calculations involving Binary, Hexadecimal and Decimal.
@@ -50,7 +50,7 @@ Smallest number from 16, so 16 - 16 = 0
 | 128    | 10000000|
 |228 | 11100100|
 |112 | 1110000|
-|73| | 1001001|
+|73| 1001001|
 
 ### How to calculate binary to decimal
 
