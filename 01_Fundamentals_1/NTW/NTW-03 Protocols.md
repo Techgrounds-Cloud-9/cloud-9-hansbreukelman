@@ -22,6 +22,9 @@ Https in full stands for Hyper Text Transfer Protocol Secure and, like http, is 
 ### Wireshark
 Wireshark is a network protocol analyzer, or an application that captures packets from a network connection, such as from your computer to your home office or the internet.
 
+### QUIC
+QUIC (Quick UDP Internet Connections) is een nieuw transportprotocol voor het internet, ontwikkeld door Google.
+
 ## Exercise
 ### Sources
 https://nl.wikipedia.org/wiki/User_Datagram_Protocol
@@ -34,6 +37,10 @@ https://www.youtube.com/watch?v=-rSqbgI7oZM&t=570s
 
 https://docs.oracle.com/cd/E19683-01/806-4075/ipov-10/index.html
 
+https://peering.google.com/#/learn-more/quic
+
+
+
 ### Overcome challenges
 [Give a short description of the challeges you encountered, and how you solved them.]
 
@@ -41,3 +48,13 @@ https://docs.oracle.com/cd/E19683-01/806-4075/ipov-10/index.html
 Identify other protocols and their connection to OSI layers. 
 
 ![op](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/3a90497d22a999aee40f9bcbc0a22e1a19b1c30e/00_includes/Week%202/NTW-02%20Prot.png)
+
+
+### Understanding QUIC
+What I understand from it is that QUIC is a protocol that is especially much associated with the use of Google Chrome. It is also realized by Google.
+
+![go]()
+
+The QUIC protocol also constantly communicates with an ip address originating from Google. 
+
+![go]()
