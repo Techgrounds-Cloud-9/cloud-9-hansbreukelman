@@ -26,6 +26,15 @@ Wireshark is a network protocol analyzer, or an application that captures packet
 QUIC (Quick UDP Internet Connections) is een nieuw transportprotocol voor het internet, ontwikkeld door Google.
 
 ## Exercise
+- Looked up other protocols and the corresponding OSI layer. 
+
+- Figured out what protocols we use and what it would take to implement a proprietary protocol.
+
+- Downloaded and installed Wireshark. 
+Captured my own network data. 
+Picked a protocol and highlighted it.
+
+
 ### Sources
 https://nl.wikipedia.org/wiki/User_Datagram_Protocol
 
@@ -38,8 +47,7 @@ https://www.youtube.com/watch?v=-rSqbgI7oZM&t=570s
 https://docs.oracle.com/cd/E19683-01/806-4075/ipov-10/index.html
 
 https://peering.google.com/#/learn-more/quic
-
-
+#
 
 ### Overcome challenges
 [Give a short description of the challeges you encountered, and how you solved them.]
@@ -49,12 +57,18 @@ Identify other protocols and their connection to OSI layers.
 
 ![op](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/3a90497d22a999aee40f9bcbc0a22e1a19b1c30e/00_includes/Week%202/NTW-02%20Prot.png)
 
+### What is needed to introduce your own protocol.
+You can always create another protocol in your own network without having to depend on other authorities. 
+
+To begin, it is helpful to have a foundation and start with OSI's 7 layers as a guideline. And from here look at what you want to improve to your standards. Apply these within your own network and test how this goes.
+
+If you want it to be public and recognized so that other users of the Internet can use it, you will have to apply to various agencies to have it implemented. Including Internet Engineering Task Force (IETF) develop the maintain high quality relevant technical standards, mainly network protocols. The network protocol standards are developed under a platform, called as Request for Comments (RFCs).
 
 ### Understanding QUIC
 What I understand from it is that QUIC is a protocol that is especially much associated with the use of Google Chrome. It is also realized by Google.
 
-![go]()
+![go](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/40e29e992861fd8c4f4b9d01e74f32f817775416/00_includes/Week%202/NTW-03%20Cap.png)
 
-The QUIC protocol also constantly communicates with an ip address originating from Google. 
+The QUIC protocol also constantly communicates between my IP address and with an IP address originating from Google. 
 
-![go]()
+![go](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/40e29e992861fd8c4f4b9d01e74f32f817775416/00_includes/Week%202/NTW-03%20QUIC.png)
