@@ -1,5 +1,6 @@
 # NTW-03 Protocols
-[Give a short summary of the subject matter.]
+Becoming familiar with protocols and their use
+#
 
 ## Key terminology
 ### Network protocol
@@ -33,7 +34,7 @@ QUIC (Quick UDP Internet Connections) is een nieuw transportprotocol voor het in
 - Downloaded and installed Wireshark. 
 Captured my own network data. 
 Picked a protocol and highlighted it.
-
+#
 
 ### Sources
 https://nl.wikipedia.org/wiki/User_Datagram_Protocol
@@ -50,7 +51,8 @@ https://peering.google.com/#/learn-more/quic
 #
 
 ### Overcome challenges
-[Give a short description of the challeges you encountered, and how you solved them.]
+I thought it was a very interesting assignment. There is a lot to explore in this, actually too much to put into one assignment.  
+#
 
 ### Results
 Identify other protocols and their connection to OSI layers. 
@@ -64,8 +66,8 @@ To begin, it is helpful to have a foundation and start with OSI's 7 layers as a 
 
 If you want it to be public and recognized so that other users of the Internet can use it, you will have to apply to various agencies to have it implemented. Including Internet Engineering Task Force (IETF) develop the maintain high quality relevant technical standards, mainly network protocols. The network protocol standards are developed under a platform, called as Request for Comments (RFCs).
 
-### Understanding QUIC
-What I understand from it is that QUIC is a protocol that is especially much associated with the use of Google Chrome. It is also realized by Google.
+### Understanding QUIC protocol
+What I understand from it is that QUIC is a protocol that is especially much associated with the use of Google Chrome. It is also realized by Google. It is on the Transport Layer, or Layer 4 of the OSI layers.
 
 ![go](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/40e29e992861fd8c4f4b9d01e74f32f817775416/00_includes/Week%202/NTW-03%20Cap.png)
 
