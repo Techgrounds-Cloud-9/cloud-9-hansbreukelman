@@ -6,10 +6,20 @@
 
 ## Exercise
 ### Sources
-[List the sources you used for solving the exercise]
+https://www.subnet-calculator.com/
+
+https://app.diagrams.net/
 
 ### Overcome challenges
 [Give a short description of the challeges you encountered, and how you solved them.]
 
 ### Results
 [Describe the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
+
+### Subnetting Cheat Sheet
+| | ||||||||
+| ---| -|---|--|--|--|--|--|--|
+|Group size|128|64|32|16|8|4|2|1|
+|Subnet|128|192|224|240|248|252|254|255
+|CIDR|25|26|27|28|29|30|31|32
+
