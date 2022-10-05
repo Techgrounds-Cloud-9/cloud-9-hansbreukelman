@@ -1,16 +1,33 @@
 # NTW-06 Subnetting
-[Give a short summary of the subject matter.]
+Delving into subnets and creating networks. And realizing an outlined network architecture. 
+#
 
 ## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excercises.]
+### LAN
+'Local Area Network', a LAN cable is the connection between computers, printers, switches, etc. creating a network (LAN).
+
+### Subnet
+A subnet is a subnet in a network, operating according to the Internet Protocol. The verb subnets means dividing a set of consecutive IP addresses (an IP range) for addressing on separate physical networks.
+
+### Subnet mask
+A subnet mask is a 32-bit number created by setting host bits to all 0s and setting network bits to all 1s.
+
+### CIDR
+CIDR is the short for Classless Inter-Domain Routing, an IP addressing scheme that replaces the older system based on classes A, B, and C. A single IP address can be used to designate many unique IP addresses with CIDR.
+
+### Broadcast address
+A broadcast address is a network address used to transmit to all devices connected to a multiple-access communications network.
 
 ## Exercise
+Create a network architecture in the form of a diagram. 
+
 ### Sources
 https://www.subnet-calculator.com/
 
 https://app.diagrams.net/
 
 https://www.youtube.com/c/PracticalNetworking
+#
 
 ### Overcome challenges
 [Give a short description of the challeges you encountered, and how you solved them.]
