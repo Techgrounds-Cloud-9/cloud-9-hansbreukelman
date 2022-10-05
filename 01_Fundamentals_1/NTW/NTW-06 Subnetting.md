@@ -16,9 +16,7 @@ https://www.youtube.com/c/PracticalNetworking
 [Give a short description of the challeges you encountered, and how you solved them.]
 
 ### Results
-[Describe the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
-
-### Subnetting Cheat Sheet
+![CS](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/5f5c8738f43204d83ffb3a2a9e60022798b1f649/00_includes/Week%202/NTW-06%20Cheatsheet.png)
 
 ![dia](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/56d4be96e8f8089801830c8bd0f0b6160ca4ef8e/00_includes/Week%202/NTW-06%20Diagram.png)
 
