@@ -10,6 +10,8 @@ https://www.subnet-calculator.com/
 
 https://app.diagrams.net/
 
+https://www.youtube.com/c/PracticalNetworking
+
 ### Overcome challenges
 [Give a short description of the challeges you encountered, and how you solved them.]
 
@@ -17,9 +19,6 @@ https://app.diagrams.net/
 [Describe the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
 
 ### Subnetting Cheat Sheet
-| | ||||||||
-| ---| -|---|--|--|--|--|--|--|
-|Group size|128|64|32|16|8|4|2|1|
-|Subnet|128|192|224|240|248|252|254|255
-|CIDR|25|26|27|28|29|30|31|32
+
+![dia](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/56d4be96e8f8089801830c8bd0f0b6160ca4ef8e/00_includes/Week%202/NTW-06%20Diagram.png)
 
