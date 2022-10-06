@@ -1,4 +1,4 @@
-# [Subject]
+# Sec-02 Firewalls
 [Give a short summary of the subject matter.]
 
 ## Key terminology
@@ -6,7 +6,9 @@
 
 ## Exercise
 ### Sources
-[List the sources you used for solving the exercise]
+https://www.youtube.com/watch?v=kDEX1HXybrU
+
+https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-with-ufw-on-ubuntu-20-04
 
 ### Overcome challenges
 [Give a short description of the challeges you encountered, and how you solved them.]
