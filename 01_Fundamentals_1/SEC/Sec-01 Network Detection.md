@@ -40,3 +40,12 @@ Total info of users in subnet
 
 ![tot](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/f993dc9cd66f2ad6c0b36c0d93c648f44e3a29a3/00_includes/Week%202/SEC-01%20Total%20sub.png)
 
+Using Wireshark to analyze network traffic 
+
+![ws](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/76eb0f4c2c7d3543aef6e2b67992957928301158/00_includes/Week%202/SEC-01%20Wireshark.png)
+
+![sw](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/76eb0f4c2c7d3543aef6e2b67992957928301158/00_includes/Week%202/SEC-01%20Tmobile.png)
+
+![sw](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/76eb0f4c2c7d3543aef6e2b67992957928301158/00_includes/Week%202/SEC-01%20Zoom.png)
+
+![sw](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/76eb0f4c2c7d3543aef6e2b67992957928301158/00_includes/Week%202/SEC-01%20AWS.png)
