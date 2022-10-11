@@ -75,17 +75,23 @@ But to generate a public key, we use the private number, the prime number and th
 My private number is 9
 
 The math then looks like this:
+
 (6^9) mod 13 = 5 
+
 My public number is 5
-I share this with Jeena so that she can arrive at our common private number using the same arithmetic.
-I can then do the same with her public number.
-Jeena's public number is 7
+I share this with Jeena so that she can arrive at our common private number using the same arithmetic. I can then do the same with her public number. Jeena's public number is 7
+
+![pk](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/2e627ad2b087264e4a938635405af6896126b461/00_includes/Week%203/SEC/SEC-04%20Exchange%20Public.png)
+
 The arithmetic I have to do then looks like this:
 
 (7^9) mod 13 = 8
 
-8 is our shared private number (private key) 
-This is the number of shifts to be made in the Caesar cipher. 
+8 is our shared private number (private key) This is the number of shifts to be made in the Caesar cipher. 
+
+![prk](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/2e627ad2b087264e4a938635405af6896126b461/00_includes/Week%203/SEC/SEC-04%20CC.png)
+
+![res](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/2e627ad2b087264e4a938635405af6896126b461/00_includes/Week%203/SEC/SEC-04%20Result.png)
 
 
 
