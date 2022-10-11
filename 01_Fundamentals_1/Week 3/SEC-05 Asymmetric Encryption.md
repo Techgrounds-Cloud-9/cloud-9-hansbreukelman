@@ -6,7 +6,6 @@
 
 ## Exercise
 ### Sources
-[List the sources you used for solving the exercise]
 
 ### Overcome challenges
 [Give a short description of the challeges you encountered, and how you solved them.]
