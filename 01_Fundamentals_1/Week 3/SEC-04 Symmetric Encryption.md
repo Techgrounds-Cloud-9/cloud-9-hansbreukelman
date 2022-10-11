@@ -1,33 +1,37 @@
 # SEC-04 Symmetric Encryption
-[Give a short summary of the subject matter.]
+All about historic ciphers, digital ciphers and creating an example of how this can be applied.
 
 ## Key terminology
 ### Encryption
+Encryption is the method by which information is converted into secret code that hides the information's true meaning. The science of encrypting and decrypting information is called cryptography.
 
 ### Cryptography
+Cryptography is the study of secure communications techniques that allow only the sender and intended recipient of a message to view its contents. The term is derived from the Greek word kryptos, which means hidden.
 
 ### Ciphers
+Ciphers are arguably the corner stone of cryptography. In general, a cipher is simply just a set of steps (an algorithm) for performing both an encryption, and the corresponding decryption.   
 
 ## Exercise
+Examining historic ciphers, digital ciphers and creating an example of how this can be applied.
+
 ### Sources
 https://www.youtube.com/watch?v=KXq065YrpiU
+
+https://www.techtarget.com/searchsecurity/definition/encryption#:~:text=Encryption%20is%20the%20method%20by,encrypted%20data%20is%20called%20ciphertext.
+
+https://www.kaspersky.com/resource-center/definitions/what-is-cryptography
+
+http://practicalcryptography.com/ciphers/
 
 https://www.theguardian.com/childrens-books-site/2015/sep/10/top-10-codes-keys-and-ciphers
 
 https://cryptii.com/pipes/caesar-cipher
 
 https://www.tcsion.com/OnlineAssessment/ScientificCalculator/Calculator.html#nogo
-
-https://cryptotools.net/dhe
-
-https://www.tools4noobs.com/online_tools/encrypt/
-
-https://generate-random.org/encryption-key-generator?count=1&bytes=32&cipher=des-cbc&string=&password=
-
-https://www.devglan.com/online-tools/rsa-encryption-decryption
+#
 
 ### Overcome challenges
-[Give a short description of the challeges you encountered, and how you solved them.]
+It was still a bit of a discovery and search to determine what method to use and whether it would be suited. But finally I was able to make a choice.
 
 ## Results
 ### Historic ciphers
@@ -64,9 +68,10 @@ The number that comes out of this can be used to determine how much is shifted i
 
 Once the number is determined then each individual can begin encrypting his or her message. 
 
-To determine a number for shifting the Caesar figure, I and Jeena for the Diffie-Hellman method have a prime number and a generic number, these two are not private or secret and can be shared. 
+To determine a number for shifting the Caesar figure, Jeena and I have chosen, for the Diffie-Hellman method, a prime number and a generic number. These two are not private or secret and can be shared. 
 
 Prime number = 13
+
 Generic number = 6
 
 In addition, we both chose a private number for ourselves. These are secret though.
@@ -79,7 +84,8 @@ The math then looks like this:
 (6^9) mod 13 = 5 
 
 My public number is 5
-I share this with Jeena so that she can arrive at our common private number using the same arithmetic. I can then do the same with her public number. Jeena's public number is 7
+
+I share this with Jeena so that she can calculate our common private number using the same arithmetic. I can then do the same with her public number. Jeena's public number is 7
 
 ![pk](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/2e627ad2b087264e4a938635405af6896126b461/00_includes/Week%203/SEC/SEC-04%20Exchange%20Public.png)
 
