@@ -33,5 +33,4 @@ Preparing my message with my peer's public key
 Now my peer puts my encrypted message in the decrypt column and combined with the peer's private key, he or she can make the message readable.
 
 ![e](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/bee2edf71099861cb9ecb7cdd8f503e4bace744b/00_includes/Week%203/SEC/SEC-05_03.png)
-
 ![e](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/bee2edf71099861cb9ecb7cdd8f503e4bace744b/00_includes/Week%203/SEC/SEC-05_04%20Message.png)

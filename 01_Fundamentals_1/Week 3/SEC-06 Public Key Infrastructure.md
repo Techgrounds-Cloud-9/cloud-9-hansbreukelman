@@ -45,7 +45,7 @@ To do this, you can click on the lock icon in the address bar. This will bring u
 
 Techgrounds
 
-![b](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/bee2edf71099861cb9ecb7cdd8f503e4bace744b/00_includes/Week%203/SEC/SEC-06_05%20path%20alg.png)
+![b](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/bee2edf71099861cb9ecb7cdd8f503e4bace744b/00_includes/Week%203/SEC/SEC-06_05%20path%20alg.png )
 ![b](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/bee2edf71099861cb9ecb7cdd8f503e4bace744b/00_includes/Week%203/SEC/SEC-06_06%20path%20det.png)
 #
 Google
@@ -61,7 +61,6 @@ ING
 I searched for the list of trusted certificate roots on my system and find it.
 
 ![b](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/bee2edf71099861cb9ecb7cdd8f503e4bace744b/00_includes/Week%203/SEC/SEC-06_11%20truststore.png)
-
 ![b](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/bee2edf71099861cb9ecb7cdd8f503e4bace744b/00_includes/Week%203/SEC/SEC-06_12%20list%20cer.png)
 
 Also find it on my VM.

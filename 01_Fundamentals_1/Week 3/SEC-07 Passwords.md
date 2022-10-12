@@ -33,6 +33,10 @@ https://www.cyberciti.biz/faq/where-are-the-passwords-of-the-users-located-in-li
 Hashing is usually used to ensure the integrity of data, primarily when we’re storing large amounts of it, while encryption is aimed more at protecting the privacy of small amounts of data while in transit;
 
 Hashing is one-way, while encryption is two-way. Encryption turns plain text into ciphertext, which is unreadable, but you can decrypt it with a relevant key. Hashing scrambles a plain text into a unique encoded hash unit, which can't be reverted into a readable form.
+
+Pro's and cons from both
+
+![gt](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/74fab95d227ba4b9c8c5e2587eb80dce1ae79046/00_includes/Week%203/SEC/SEC-07%20pros%20and%20cons.png)
 #
 
 ### Rainbow Table
@@ -46,3 +50,18 @@ Once they have the password hashes the rainbow table is used to help decrypt the
 #
 
 ### MD5 password hashes
+![gt](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/74fab95d227ba4b9c8c5e2587eb80dce1ae79046/00_includes/Week%203/SEC/SEC-07_01%20Go.png)
+
+![gt](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/74fab95d227ba4b9c8c5e2587eb80dce1ae79046/00_includes/Week%203/SEC/SEC-07_02%20Cr.png)
+
+![gt](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/74fab95d227ba4b9c8c5e2587eb80dce1ae79046/00_includes/Week%203/SEC/SEC-07_03%20Second.png)
+
+![gt](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/74fab95d227ba4b9c8c5e2587eb80dce1ae79046/00_includes/Week%203/SEC/SEC-07_04%20User.png)
+
+![gt](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/74fab95d227ba4b9c8c5e2587eb80dce1ae79046/00_includes/Week%203/SEC/SEC-07_05%20Show_user.png)
+
+![gt](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/74fab95d227ba4b9c8c5e2587eb80dce1ae79046/00_includes/Week%203/SEC/SEC-07_06%20Show_Hash.png)
+
+![gt](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/74fab95d227ba4b9c8c5e2587eb80dce1ae79046/00_includes/Week%203/SEC/SEC-07_07%20Cr.png)
+
+![gt](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/74fab95d227ba4b9c8c5e2587eb80dce1ae79046/00_includes/Week%203/SEC/SEC-07_08%20Compair.png)
