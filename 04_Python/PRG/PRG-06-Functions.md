@@ -12,6 +12,10 @@ Python Functions is a block of statements that return the specific task.
 #
 ### Sources
 https://www.geeksforgeeks.org/python-functions/?ref=gcse
+
+https://www.w3schools.com/python/trypython.asp?filename=demo_function_param
+
+https://www.guru99.com/find-average-list-python.html
 #
 ### Overcome challenges
 #
