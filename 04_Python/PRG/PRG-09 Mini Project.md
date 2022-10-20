@@ -1,15 +1,19 @@
 # PRG-09 Mini Project
-[Give a short summary of the subject matter.]
-
+Use gathered knowledge to create a game.
+#
 ## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excercises.]
+#
 
 ## Exercise
+Creating a guessing game
+#
 ### Sources
-[List the sources you used for solving the exercise]
-
+https://www.datainsightonline.com/post/random-number-guessing-using-python
+#
 ### Overcome challenges
-[Give a short description of the challeges you encountered, and how you solved them.]
+#
 
 ### Results
-[Describe the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
+Guessing game
+
+![ju](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/6b3ef8e879b93ab11d47870e0bfe4e94a1aa4267/00_includes/Week_4/PRG/PRG-09.png)
