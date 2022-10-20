@@ -38,7 +38,7 @@ Option 2
 
 ![bn](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/5ddb3e0747e23c95afd97c860013c048b69d2187/00_includes/Week_4/PRG/PRG-02_02.png)
 #
-Exercise 2:
+Exercise 3:
 
 ![nm](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/5ddb3e0747e23c95afd97c860013c048b69d2187/00_includes/Week_4/PRG/PRG-02_03.png)
 
