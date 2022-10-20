@@ -2,14 +2,34 @@
 [Give a short summary of the subject matter.]
 
 ## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excercises.]
+### Key-value pairs
+
+
 
 ## Exercise
+- Create a script with a dictionary with value pairs 
+- Make a simulair dictionary, but know with users input and write it to a csv-file.
+#
 ### Sources
-[List the sources you used for solving the exercise]
+https://realpython.com/iterate-through-dictionary-python/
 
+https://bobbyhadz.com/blog/python-add-user-input-to-dictionary
+
+https://www.youtube.com/watch?v=DgOT8DEFBoc
+
+https://www.youtube.com/watch?v=U-jesavovCc
+#
 ### Overcome challenges
-[Give a short description of the challeges you encountered, and how you solved them.]
-
+#
 ### Results
-[Describe the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
+Exercise 1:
+
+![we](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/4d34d61514bdd54571f40c59bf8f72cbb1f47222/00_includes/Week_4/PRG/PRG-08_01.png)
+
+Exercise 2:
+
+![we](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/4d34d61514bdd54571f40c59bf8f72cbb1f47222/00_includes/Week_4/PRG/PRG-08_02.png)
+
+Csv-file
+
+![we](https://github.com/Techgrounds-Cloud-9/cloud-9-hansbreukelman/blob/4d34d61514bdd54571f40c59bf8f72cbb1f47222/00_includes/Week_4/PRG/PRG-08_03.png)
