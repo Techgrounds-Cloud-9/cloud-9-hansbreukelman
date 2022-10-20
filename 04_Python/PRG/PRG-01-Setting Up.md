@@ -1,15 +1,23 @@
 # PRG-01-Setting Up
-[Give a short summary of the subject matter.]
+Installing and learning python.
 
 ## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excercises.]
+### Python
+
+### IDE
+
+### VS Code
+
+###
 
 ## Exercise
+Install Python and Visual Studio Code and write a first piece of Python code.
+
 ### Sources
-[List the sources you used for solving the exercise]
+
 
 ### Overcome challenges
-[Give a short description of the challeges you encountered, and how you solved them.]
+In this assignment, there were few to no challenges
 
 ### Results
-[Describe the result of the exercise. An image can speak more than a thousand words, include one when this wisdom applies.]
+![re]()
