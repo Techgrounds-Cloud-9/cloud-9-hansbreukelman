@@ -1,10 +1,8 @@
-from opcode import hasname
-
 import csv
 
 with open('test.csv', 'a+') as file:
     my_dictionary = csv.writer(file)
-    my_dictionary.writerow(["First name", "Last name", "Job title", "Company"])
+    my_dictionary.loc(0,["First name", "Last name", "Job title", "Company"])
     first_name = input("Enter first name: ")
     last_name = input("Enter last name: ")
     job_title = input("Enter job title: ")

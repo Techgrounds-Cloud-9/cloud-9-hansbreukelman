@@ -1,23 +1,23 @@
-my_dictionary = {}
-for key in range(1):
-    f = input("Enter first name: ")
-    l = input("Enter last name: ")
-    j = input("Enter job title: ")
-    c = input("Enter company: ")
+import csv
 
-    my_dictionary[f, l, j, c] = l, j, c
+first_name = input("Enter first name: ")
+last_name = input("Enter last name: ")
+job_title = input("Enter job title: ")
+company = input("Enter company: ")
 
-    # print(matrix[i][j], end = " ")  
+data = []
 
+# while True:
+#     company = input("enter value4 ")
+#     if company.upper() == "Q":
+#         break
+#     data.append([first_name, last_name, job_title, company])
 
-# 👇️ {'Alice': '100', 'Bob': '100', 'Carl': '100'}
-# print(key, '->', my_dictionary[key])
-print(my_dictionary)
-# employees = {}
-
-# for i in range(3):
-#     name = input("Enter employee's name: ")
-#     salary = input("Enter employee's salary: ")
-
-#     employees[name] = salary
+with open('test.csv', 'a+') as file:
+    my_dictionary = csv.writer(file)
+    my_dictionary.writerow(["First name", "Last name", "Job title", "Company"])
+    my_dictionary.writerow([first_name, last_name, job_title, company])
+    for row in data:
+        my_dictionary.writerow(row)
+    print(my_dictionary)
 

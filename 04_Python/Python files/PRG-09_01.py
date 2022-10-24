@@ -23,7 +23,7 @@ while g_number!= number and tries<3:
 
 if g_number == number:
     print('You are the best!')
-    print('You won in ' + str(tries) + 'attempts')
+    print('You won in ' + str(tries) + ' attempts')
 else:
     print('You lost the game, the correct number is ' + str(number))
 

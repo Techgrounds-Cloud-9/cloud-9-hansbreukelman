@@ -1,7 +1,7 @@
 import os
 import csv
 
-filename = 'dictionaty.csv'
+filename = 'test.csv'
 
 fields = []
 rows = []
