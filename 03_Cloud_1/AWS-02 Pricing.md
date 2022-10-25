@@ -55,9 +55,9 @@ Secure, durable and scalable object storage infrastructure.
 ### Always free services
 Some of the services like Amazon EC2, Amazon Cloudfront, Amazon S3 are free for a 12 month period, some like Amazom DynamoDB, Amazon Chime are always free, and others like Amazon Redshift, Amazon Lightsail have short term free trials, typically 30-60 days.
 
-### Capex
+### Capex - Pay Up-front
 Capex stands for Capital Expenditures. 
 It refers to the cost of developing or delivering non-consumable parts of a product or system (investment).. As an example: A purchase of a printer is a "Capex" expenditure, the toner and paper used for it are the Opex expenditure.
 
-### Opex
+### Opex - Pay what u use
 Operating Expenditures (OPEX), or Operating Expenses, are the fixed costs incurred by the business. They are the recurring costs incurred in the business to keep it operating. Examples of OPEX are: Personnel costs, Rent, Office supplies, etc.
