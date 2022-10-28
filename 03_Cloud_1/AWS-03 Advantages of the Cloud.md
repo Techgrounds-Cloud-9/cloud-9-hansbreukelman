@@ -29,7 +29,7 @@ https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cl
   This creates a nice circle.
   More (larger) customers creates more AWS usage, which requires more infrastructure, which in turn creates economies of scale. This lowers the cost of infrastructure and thus lowered prices, which in turn ensures more customers, etc. 
 
-  During this course of the circle, there is also plenty of room and opportunity for the development of new functions and services in each component. Which in turn brings many benefits.
+  During this course of the circle, there is also plenty of room and opportunity for the development of new functions and services in each component. Which in turn brings many benefits and what again strengthened the circle.
 
 ![fg](../00_includes/Week_5/CLOUD/AWS-03.png)
   

@@ -43,4 +43,4 @@ The cost of using a region also varies by country. This, of course, can also pla
 Services and features are generally the same with each region. Only the most new features and services are always adopted by the larger regions first, with smaller regions these are implemented later.
 
 ### Frankfurt or Oregon?
-Depending on what the end user's requirements are, a choice can be made. If the end user is located in the Netherlands, the most obvious choice is Frankfurt. This is to reduce the latency and also for possible regulations.
+Depending on what the end user's requirements are, a choice can be made. If the end user is located in the Netherlands, the most obvious choice is Frankfurt. This is to reduce the latency and also for possible regulations that other countries may have, which are not one-to-one with those of the user's country.

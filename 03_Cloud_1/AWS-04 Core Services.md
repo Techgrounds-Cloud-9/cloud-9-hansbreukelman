@@ -2,7 +2,32 @@
 [Give a short summary of the subject matter.]
 
 ## Key terminology
-[Write a list of key terminology with a short description. To prevent duplication you can reference to previous excercises.]
+### Amazon EC2
+
+### AWS Lambda
+
+### AWS Elastic Beanstalk
+
+### Amazon VPC
+
+### Amazon Route 53
+
+### Amazon S3
+
+### Amazon S3 Glacier
+
+### Amazon CloudFront
+
+### Amazon RDS
+
+### Amazon DynamoDB
+
+### Amazon CloudWatch
+
+### Amazon CloudFormation
+
+### AWS Identity and Access Management
+
 
 ## Exercise
 ### Sources
