@@ -51,7 +51,54 @@ unzip lab-app.zip -d /var/www/html/
 chkconfig httpd on
 service httpd start
 ```
-![insta]
+![insta](../00_includes/Week_6/CLOUD/AWS-11/AWS-11-ex1-1.png)
+
+Created an AMI from my instance
+![ami](../00_includes/Week_6/CLOUD/AWS-11/AWS-11-ex1-2.png)
+
+### **Exercise 2**
+Created an application load balancer with the following requirements:
+- Name: LabELB
+- Listener: HTTP on port 80
+- AZs: eu-central-1a and eu-central-1b
+- Subnets: must be public
+- Security Group: 
+  - Name: ELB SG
+  - Rules: allow HTTP access
+- Target Group:
+  - Name: LabTargetGroup
+  - Targets: to be registered by Auto Scaling
+
+![TG](../00_includes/Week_6/CLOUD/AWS-11/AWS-11-ex2-1.png)
+#
+### **Exercise 3**
+
+Created a launch template for the Auto Scaling group. It has to be identical to the server that is currently running.
+
+![auto](../00_includes/Week_6/CLOUD/AWS-11/AWS-11-ex3-1.png)
+
+From that launch template I created an Auto Scaling group with the following requirements:
+- Name: Lab ASG
+- Launch Configuration: Web server launch configuration
+- Subnets: must be in eu-central-1a and eu-central-1b
+- Load Balancer: LabELB
+- Group metrics collection in CloudWatch must be enabled
+- Group Size:
+  - Desired Capacity: 2
+  - Minimum Capacity: 2
+  - Maximum Capacity: 4
+- Scaling policy: Target tracking with a target of 60% average CPU utilisation
 
 
+![auto2](../00_includes/Week_6/CLOUD/AWS-11/AWS-11-ex3-2.png)
 
+#
+
+### **Exercise 4**
+Verifying that the EC2 instances are online and that they are part of the target group for the load balancer and are healthy.
+
+![ghj](../00_includes/Week_6/CLOUD/AWS-11/AWS-11-ex4-1.png)
+
+Accessed the server via the ELB by using the DNS name of the ELB and performed an load test on my server(s) using the website on my server to activate auto scaling.
+
+![server](../00_includes/Week_6/CLOUD/AWS-11/AWS-11-ex4-2.png)
