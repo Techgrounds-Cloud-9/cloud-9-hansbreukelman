@@ -22,6 +22,8 @@ https://docs.aws.amazon.com/whitepapers/latest/aws-overview/six-advantages-of-cl
    Pay only when you use computing resources, and pay only for how much you use. No more big investments in data centers and servers before you know how you will use them.
 
    To recall the example from the previous assignment, you only pay where necessary for the use of the paper and ink, the printer itself is already purchased.
+
+   Also with CapEx is that tax deductible over depcreciation lifetime and wit OpEx is that tax deductible in the same year
 #
 - ### Benefit from massive economies of scale
   As the usage of hundreds of thousands of customers is aggregated in the cloud, providers such as AWS can achieve higher economies of scale, ensuring lower pay as you go prices. 

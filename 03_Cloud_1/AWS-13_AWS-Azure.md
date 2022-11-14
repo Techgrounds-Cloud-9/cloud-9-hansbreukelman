@@ -55,7 +55,7 @@ First I created an Security Group
 ![sg](../00_includes/Week_6/CLOUD/AWS-13/AWS-13-01.png)
 ![sg](../00_includes/Week_6/CLOUD/AWS-13/AWS-13-01-2.png)
 
-Then I created an file system
+Then I created an file system, with three different availability zones.
 
 ![sg](../00_includes/Week_6/CLOUD/AWS-13/AWS-13-02.png)
 
@@ -68,9 +68,12 @@ To show that the instances are linked to the file system, I created a text file 
 
 ![ins](../00_includes/Week_6/CLOUD/AWS-13/AWS-13-04.png)
 
-The file system ensured that the text file was also created in the other EC2 instance\
+The file system ensured that the text file was also availible in the other EC2 instance
 
 ![ins](../00_includes/Week_6/CLOUD/AWS-13/AWS-13-05.png)
 #
+### **Using RDS, Aurora**
+
+
 
 
