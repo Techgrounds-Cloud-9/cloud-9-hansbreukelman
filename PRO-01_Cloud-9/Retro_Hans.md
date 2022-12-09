@@ -8,7 +8,7 @@ Afterwards: Place a copy of this filled out form in your repository.
 ## What went well?
 - Made vpc's in the stack of the cdk file
 - Deployed an cdk/cloudformation stack
-- It is beginning to become more and more clear and I am beginning to understand it better and better.
+- It took some time, but it is beginning to become more and more clear and I am beginning to understand it better and better.
 
 ## What could have gone better?
 - Better understand resources code before using them
