@@ -6,6 +6,7 @@ Use gathered knowledge to create a game.
 
 ## Exercise
 Creating a guessing game
+https://docs.google.com/document/d/1IccBNkJTp8Cs8-GBRL1oGHYbVfJGmNvJBRTcyT8Y14s/edit?usp=sharing
 #
 ### Sources
 https://www.datainsightonline.com/post/random-number-guessing-using-python
